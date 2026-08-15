@@ -1,4 +1,6 @@
-# Hi, I'm Searsha 👋
+<p align="center">
+  <img src="./searsha-banner.png" width="100%" alt="Searsha Gebhart banner">
+</p>
 I work at the intersection of AI strategy, innovation, business transformation, and workforce development, with a focus on turning emerging technology into practical, scalable solutions.
 
 My work and interests center on how organizations can adopt AI responsibly and strategically — not simply as a new technology, but as a tool for improving how people learn, work, make decisions, and create value.
