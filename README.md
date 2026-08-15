@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Searsha 👋
+I work at the intersection of AI strategy, innovation, business transformation, and workforce development, with a focus on turning emerging technology into practical, scalable solutions.
 
-<!--
-**searsha/searsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work and interests center on how organizations can adopt AI responsibly and strategically — not simply as a new technology, but as a tool for improving how people learn, work, make decisions, and create value.
 
-Here are some ideas to get you started:
+## Areas of Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* AI Strategy & Adoption
+* Responsible AI & Governance
+* Business Transformation
+* Prompt & Context Engineering
+* Workforce & Learning Innovation
+* Strategic Partnerships
+* Emerging Technology
+* Program & Portfolio Strategy
+
+## What I'm Exploring
+
+I'm particularly interested in the intersection of AI, organizational strategy, workforce transformation, and human-centered adoption, including how organizations evaluate AI opportunities, manage risk, redesign workflows, and prepare people for increasingly AI-enabled environments.
+
+## Portfolio Projects
+
+I'm currently building a collection of practical resources and projects focused on:
+
+* AI strategy and readiness
+* Responsible AI governance
+* Prompt and context engineering
+* AI-enabled workflow transformation
+* AI learning and capability development
+
+More coming soon.
+
+Let's Connect!
+www.linkedin.com/in/searshagebhart
