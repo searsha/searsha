@@ -26,7 +26,7 @@ My work centers on AI strategy, innovation, business transformation, and human-c
 
 **Albert hit the nail on the head.**<br> 
 I’ve never believed creativity and strategy are mutually exclusive. I believe the best ideas happen when the two work together. <br>
-*If you’re not having at fun while figuring out what’s possible, you're probably doing it wrong.*
+*If you’re not having fun while figuring out what’s possible, you're probably doing it wrong.*
 <br>
 ### Creativity sees what could be & strategy figures out how to make it real.
 </br>
