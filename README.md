@@ -5,22 +5,13 @@
 
 ### CREATIVE × STRATEGIST × BUILDER
 
-**I like big ideas. I like figuring out how they work. And I really like turning them into something real.**
+**I’m drawn to the space where big ideas meet real execution.**
 
-</div>
+I think creatively, work strategically, and love building things that make emerging technology feel more useful, more responsible, and more human.
 
-<br>
+My work centers on AI strategy, innovation, business transformation, and human-centered adoption, with a particular interest in how organizations can use AI thoughtfully without losing the people, judgment, creativity, and purpose that make the work matter.
 
-I work at the intersection of AI strategy, innovation, business transformation, and human-centered design, connecting creative thinking with the structure, strategy, and execution required to actually make ideas work.
-
-I’m endlessly curious about what emerging technology makes possible, but I’m even more interested in what happens **after the idea**.
-
-How do we make it useful?
-How do we make it responsible?
-How do we make it scalable?
-How do we make sure people are still meaningfully part of the equation?
-
-That’s the space where I do my best work.
+**Creativity finds the possibility. Strategy gives it direction. Building makes it real.**
 
 ---
 
