@@ -315,7 +315,7 @@ I’m not trying to make AI look more complicated.
 **Have an interesting problem, idea, or opportunity?**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/searsha-gebhart/">
+  <a href="https://www.linkedin.com/in/searshagebhart/">
     <img src="./Picture1.png" width="80%" alt="Let's Collaborate with Searsha">
   </a>
 </p>
